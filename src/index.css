@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    text-emphasis-color: #fff;
+    text-decoration-color: #fff;
+    color: #fff;
+    background-color: #1c1c1c;
+}
